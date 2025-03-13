@@ -1,0 +1,6 @@
+@mtg_tally.Server_HostAddress = http://localhost:5258
+
+GET {{mtg_tally.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
