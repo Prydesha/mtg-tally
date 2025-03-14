@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "mtg-tally.Server\\mtg-tally.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "mtg-tally.client\\mtg-tally.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

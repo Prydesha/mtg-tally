@@ -3,7 +3,7 @@
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\shawn\Documents\Projects\mtg-tally\mtg-tally.Server\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-03-13T21:21:02.9138334Z||;</History>
+    <History>True|2025-03-14T00:50:32.0394897Z||;True|2025-03-13T17:21:02.9138334-04:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
