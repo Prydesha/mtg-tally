@@ -23,9 +23,13 @@ jobs:
         with:
           node-version: '22.x'
 
+      - run: pwd
+
       - name: move to client directory
         run: cd 'mtg-tally.client'
 
+      - run: pwd
+      
       - name: npm install, build, and test
         run: |
           npm install
