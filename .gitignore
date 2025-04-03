@@ -33,3 +33,5 @@ Debug/
 /.sass-cache
 npm-debug.log
 /mtg-tally.Server/Properties/PublishProfiles/**
+*.pubxml
+*.pubxml.user
