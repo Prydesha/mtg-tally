@@ -12,6 +12,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 'mtg-tally.client'
+
     permissions:
       contents: read #This is required for actions/checkout
 
@@ -23,13 +27,6 @@ jobs:
         with:
           node-version: '22.x'
 
-      - run: pwd
-
-      - name: move to client directory
-        run: cd 'mtg-tally.client'
-
-      - run: pwd
-      
       - name: npm install, build, and test
         run: |
           npm install

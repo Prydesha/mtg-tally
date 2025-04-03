@@ -32,4 +32,4 @@ Debug/
 # misc
 /.sass-cache
 npm-debug.log
-/mtg-tally.Server/Properties/PublishProfiles
+/mtg-tally.Server/Properties/PublishProfiles/**
