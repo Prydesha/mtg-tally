@@ -1,20 +1,4 @@
 {
-  "dependencies": {
-    "compute.appService1": {
-      "restored": true,
-      "restoreTime": "2025-03-14T00:14:20.3416364Z"
-    }
-  },
-  "parameters": {
-    "compute.appService1.subscriptionId": {
-      "Name": "compute.appService1.subscriptionId",
-      "Type": "subscription",
-      "Value": "f74774f3-e2a9-4534-805c-da8e2d2d6b31"
-    },
-    "compute.appService1.resourceGroupName": {
-      "Name": "compute.appService1.resourceGroupName",
-      "Type": "resourceGroup",
-      "Value": "DefaultResourceGroup-EUS"
-    }
-  }
+  "dependencies": {},
+  "parameters": {}
 }
